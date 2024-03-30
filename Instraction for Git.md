@@ -99,6 +99,10 @@ git config --global user.name "your.name"
 ```sh
 git config --global user.email "ваш_email@example.com"
 ```
-#### Исползовали ресурс из сайта 
+## Команды git для работы с удаленными репозиториями
+1. 
+```sh
+git fetch
+```
+Команда git fetch связывается с удалённым репозиторием и забирает из него все изменения, которых у вас пока нет и сохраняет их локально.
 
-Сайт [atlassian](https://www.atlassian.com/) 
